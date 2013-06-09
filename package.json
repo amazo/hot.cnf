@@ -1,0 +1,17 @@
+{
+  "name": "hot.cnf",
+  "version": "0.0.0",
+  "description": "hot.cnf =======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amazo/hot.cnf.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "5d20bfd46d0536e1351d83013d2bb907338f81ac"
+}
